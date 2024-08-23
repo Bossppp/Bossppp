@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp)](https://skillicons.dev)
   
 
-### I'm Apple Eco system
+### I'm Apple Ecosystem
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 
