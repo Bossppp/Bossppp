@@ -1,6 +1,7 @@
 <h1 align="center">Hello World</h1>
 <h2 align="center">Welcome to BossPPP world</h1>
 
+#### I'm computer engineering student who intersting in machinelearning and robotic
 ![MyCedtBadge](https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/main/badges/cedt-engineer.svg)
 ![](https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/main/badges/nisit-chula.svg)
 
@@ -9,13 +10,7 @@
 
 ### My Skill
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp)](https://skillicons.dev)
-
-
-### I'm interesting in
-  * Machine Learning, 
-  * Deep Learning
   
-![](https://media1.tenor.com/m/JDV9WN1QC3kAAAAC/future-internet.gif)
 
 ### I'm Apple Eco system
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
@@ -24,6 +19,8 @@
 
 ### In love with
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+![](https://media1.tenor.com/m/JDV9WN1QC3kAAAAC/future-internet.gif)
 
 ### Gaming on
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)![](https://steamcommunity.com/profiles/76561198160545571)
@@ -36,6 +33,6 @@
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)![](https://www.instagram.com/_.bosspee._?igsh=M2M2Z3c5azVlbnhr&utm_source=qr)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)![]
 
 
