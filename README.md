@@ -5,9 +5,6 @@
 ![MyCedtBadge](https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/main/badges/cedt-engineer.svg)
 ![](https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/main/badges/nisit-chula.svg)
 
-### My GitHub stat
-![My github stats](https://github-readme-stats.vercel.app/api?username=Bossppp&show_icons=true&theme=radical)
-
 ### My Skill
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cpp)](https://skillicons.dev)
   
